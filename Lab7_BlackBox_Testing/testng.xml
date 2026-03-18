@@ -1,0 +1,13 @@
+<suite name="TestSuite">
+
+    <test name="Login Test">
+
+        <classes>
+
+            <class name="dtm.tests.TC_DangNhapTest"/>
+
+        </classes>
+
+    </test>
+
+</suite>
